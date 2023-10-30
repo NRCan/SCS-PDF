@@ -22,6 +22,8 @@ Next, the performance of five different tools were evaluated in their capability
 
 Finally, a subset of 50 borehole logs in pdf format were studied in detail. This analysis showed that all pdf borehole logs (and pdf files in general) are unstructured in nature and therefore creating a text-based information extraction algorithm would need to be case specific which is in contradiction with the overall goal of the project. Application of other advanced approaches such as machine learning should be considered. However, the limited time and resources of this study did not allow it since this approach requires an a priori database for learning phase.
 
+For more details: https://doi.org/10.4095/332258
+
 ## 4. Contact Information
 For questions contact: 
 Nicolas Benoit (Nicolas.Benoit@NRCan-RNCan.gc.ca)
